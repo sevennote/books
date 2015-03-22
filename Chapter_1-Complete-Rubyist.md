@@ -3,11 +3,11 @@
 
 Use irb to acess ruby directly in the terminal
 
-'''ruby
+```ruby
 
 >> 100 + 32
 => 132
 
-'''
+```
 
 Keep the terminal simple use --simple-prompt.
